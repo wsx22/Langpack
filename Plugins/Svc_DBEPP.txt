@@ -3,6 +3,10 @@
 ;  Module: Database Editor++
 ;  Versions: 3.2.0.0
 ;============================================================
+[Open Database Editor]
+Otwórz edytor bazy danych
+[Database Editor++]
+Edytor bazy danych
 [Cannot Convert!]
 Nie można przekonwertować!
 [New BYTE value]
