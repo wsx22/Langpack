@@ -1,7 +1,7 @@
 ;============================================================
 ;  Module: actman.dll
 ;  Plugin: ActionManager
-;  Versions: 0.0.1.10
+;  Versions: 0.2.0.1
 ;============================================================
 [Clipboard]
 Notatnik
@@ -197,3 +197,63 @@ BRAK OPERCJI
 Użyj Bajt array/pointer dla stringów ANSI\n\Użyj tablicy/wskaźnika Word dla stringów Unicode\n\n\$## zastąpione przez bajt z wartością szesnastkową ##\n\$#### zastąpione przez bajt z wartością szesnastkową #### (tylko dla stringów Unicode)\n\n\Wszystkie obliczenia długości danych w bajtach
 [Event]
 Zdarzenie
+[New]
+Nowy
+[Delete]
+Usuń
+[Action list]
+Lista akcji
+[Where to use]
+Użycie
+[CList Modern toolbar]
+Pasek zadań Clist Modern
+[TabSRMM toolbar]
+Pasek zadań TabSRMM
+[Tray menu]
+Menu w zasobniku systemowym
+[Normal button tooltip]
+Normalny przycisk na pasku zadań
+[Pressed button tooltip]
+Wciśnięty przycisk na pasku zadań
+[Show only if variables return 1]
+Pokaż tylko gdy wynik wynosi 1
+[Menu item name:]
+Nazwa w menu:
+[2 state button/item]
+Podwójny przycisk
+[Repeat]
+Powtórz
+[Repeat, times]
+Powtórz, razy
+[Interval]
+Przedział
+[Break on non-zero result]
+Przerwij jeśli wynik jest inny niż 0
+[Send event on start time]
+Wyślij zdarzenie w czasie startu
+[Send event just once]
+Wyślij zdarzenie tylko raz
+[Since/after]
+Od/po
+[Use Actions]
+Użyj akcji
+[Scheduler]
+Harmonogram
+[Root popup:]
+Źródło:
+[Core Hotkey]
+Skróty
+[Registered actions]
+Zarejestrowane akcje
+[Menu icons]
+Ikony menu
+[Starting after]
+Startuj po
+[Starting from]
+Startuj od
+[Start immediately]
+Startuj natychmiast
+[Hooks]
+Haki API
+[Save button/item state]
+Zapisz stan przycisku
