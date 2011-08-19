@@ -55,7 +55,7 @@ Zapewnia obsługę bazy danych Mirandy: ustawień globalnych, kontaktów, histor
 Automatyczne kopie zapasowe bazy danych
 [Database Features]
 Funkcje bazy danych
-;[Secure alghoritm developed in russian universities ]
+;[Secure alghoritm developed in russian universities]
 ;Bezpieczny algorytm opracowany na rosyjskich uniwersytetach
 ;[Old, very easy to crack stream cipher]
 ;Stary, bardzo łatwy do złamania algorytm szyfrujący
