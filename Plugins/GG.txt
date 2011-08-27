@@ -1,7 +1,5 @@
 ;============================================================
 ;  File: gg.dll
-;  Module: Gadu-Gadu protocol
-;  Versions: 0.10.0.1
 ;============================================================
 [Contact list]
 Lista kontaktów
@@ -197,12 +195,12 @@ Adres serwera %s jest nieprawidłowy. Użyty zostanie adres podany przez sieć.
 Adres zewnętrzny dla połączeń bezpośrednich %s jest nieprawidłowy. Forwardowanie zostanie wyłączone.
 [Change Gadu-Gadu password]
 Zmień hasło Gadu-Gadu
-[Changes current Gadu-Gadu user password.]
-Twoje aktualne hasło zostanie zmienione.
+[Change Gadu-Gadu password\nChanges current Gadu-Gadu user password]
+Zmiana hasła Gadu-Gadu\nTwoje aktualne hasło zostanie zmienione
 [Change Gadu-Gadu e-mail]
 Zmień e-mail Gadu-Gadu
-[Changes current Gadu-Gadu user e-mail.]
-Twój aktualny e-mail zostanie zmieniony.
+[Change Gadu-Gadu e-mail\nChanges current Gadu-Gadu user e-mail]
+Zmiana e-mailu Gadu-Gadu\nTwój aktualny e-mail zostanie zmieniony
 [New password:]
 Nowe hasło:
 [Confirm password:]
@@ -213,12 +211,12 @@ Nowy e-mail:
 Tak, chcę usunąć moje konto
 [Remove Gadu-Gadu account]
 Usuń konto Gadu-Gadu
-[This will remove your Gadu-Gadu account.]
-Twoje konto zostanie usunięte.
+[Remove Gadu-Gadu account\nThis will remove your Gadu-Gadu account]
+Usuwanie konta Gadu-Gadu\nTwoje konto Gadu-Gadu zostanie usunięte
 [Create Gadu-Gadu account]
 Utwórz konto Gadu-Gadu
-[This will create new Gadu-Gadu account.]
-Zostanie utworzone nowe konto Gadu-Gadu.
+[Create Gadu-Gadu account\nThis will create new Gadu-Gadu account]
+Tworzenie konta Gadu-Gadu\nTwoje nowe konto Gadu-Gadu zostanie utworzone
 [Age from:]
 Wiek od:
 [to:]
@@ -247,8 +245,8 @@ Nie można załadować obrazka. Wybrany plik może mieć nieznany format.
 Rozmiar pliku obrazka przekracza maksymalny dozwolony rozmiar 255 KB.
 [Open new conference]
 Nowa konferencja
-[Select conference participants.]
-Wybierz uczestników konferencji.
+[Open new conference\nSelect conference participants]
+Otwórz nową konferencje\nWybierz uczestników konferencji
 [Open &conference...]
 Otwórz &konferencję...
 [&Clear ignored conferences]
@@ -303,29 +301,27 @@ Zaawansowana konfiguracja
 Obrazki
 [Internal IP:]
 IP wewnętrzne:
-[Concurrent &sessions]
-Sesje równoległe
-[Concurrent sessions count: %d.]
-Ilość równoległych sesji: %d.
-[There are no active concurrent sessions for this account.]
-Brak aktywnych sesji równoległych dla tego konta.
-[You have to be logged in to view concurrent sessions.]
-Musisz być zalogowany, by oglądać sesje równoległe.
 [Client Name]
-Nazwa klienta
+Nazwa Klienta
 [IP Address]
 Adres IP
 [Login Time]
-Data zalogowania
-[Action]
-Czynność
+Czas Zalogowania
+[There are no active concurrent sessions for this account.]
+Nie ma aktywnych równoległych sesji logowania do tego konta.
+[You have to be logged in to view concurrent sessions.]
+Musisz bya zalogowany, aby zobaczya równoległe sesje.
+[Concurrent &sessions]
+Równoległe &sesje
+[Concurrent Sessions]
+Równoległe Sesje
+[Concurrent %s Login Sessions\nView information on active concurrent sessions]
+Równoległe Sesje Logowania %s\nWyświetl informacje o aktywnych równoległych sesjach
 [Sign out all sessions]
-Zakończ wszystkie sesje
+Wyloguj wszystkie sesje
+[sign out]
+wyloguj
 [You have logged in at another location]
-Zalogowałeś się w innym miejscu
+Właśnie zalogowałeś się w innym miejscu
 [You are logged in at another location]
 Jesteś zalogowany w innym miejscu
-;[Concurrent gg Login Sessions]
-;Równoległe sesje GG
-;[View information on active concurrent sessions]
-;Pokazuje informacje o aktywanych sesjach równoległych
