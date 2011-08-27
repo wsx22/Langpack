@@ -1,7 +1,6 @@
 ;============================================================
 ;  File: gg.dll
 ;  Module: Gadu-Gadu protocol
-;  Versions: 0.10.0.1
 ;============================================================
 [Contact list]
 Lista kontaktów
@@ -325,7 +324,7 @@ Zakończ wszystkie sesje
 Zalogowałeś się w innym miejscu
 [You are logged in at another location]
 Jesteś zalogowany w innym miejscu
-;[Concurrent gg Login Sessions]
-;Równoległe sesje GG
-;[View information on active concurrent sessions]
-;Pokazuje informacje o aktywanych sesjach równoległych
+[Concurrent gg Login Sessions]
+Równoległe sesje GG
+[View information on active concurrent sessions]
+Pokazuje informacje o aktywanych sesjach równoległych
