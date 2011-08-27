@@ -134,6 +134,6 @@ Plik OPML
 [Feed ID]
 ID Kanału
 [Feed protocol]
-Protokół RSS
+Powiązanie protokołu RSS
 [RSSNews connection]
 Połączenie RSS
