@@ -42,7 +42,7 @@ Potwierdź usunięcie modułu
 [Delete module from Database]
 Usuń moduł z bazy danych
 [Delete module from Database... Loading]
-Skasuj moduł z Bazy danych... Ładowanie
+Skasuj moduł z Bazy danych... �?adowanie
 [Delete module from all contacts (Includes Setting)]
 Usuń moduł ze wszystkich kontaktów (razem z ustawieniami)
 [Error Loading Module List]
@@ -72,7 +72,7 @@ Znaleziono
 [%s "%s" in Setting "%s" in module "%s" in contact "%s"]
 %s "%s" w ustawieniu "%s" modułu "%s" kontaktu "%s"
 [Error Loading Setting List]
-Błąd Ładowania Listy Ustawień
+Błąd �?adowania Listy Ustawień
 [Finished. %d items were found, %d items were deleted.]
 Zakończono. Znaleziono %d rzeczy, %d usunięto.
 [Finished. %d items were found, %d items were replaced.]
