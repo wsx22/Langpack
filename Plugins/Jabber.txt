@@ -1092,7 +1092,7 @@ Aktywność: %s
 [Leave groupchats]
 Opuść czat
 [%s connection]
-Łączenie %s
+Połączenie %s
 [Set status]
 Wybierz status
 [Set options]
