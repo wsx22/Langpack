@@ -1,4 +1,4 @@
-;============================================================
+﻿;============================================================
 ;  Module: avatarHistory_ALAStyleW.dll
 ;  Plugin: Avatar History ALA Style Mod
 ;  Versions: 0.0.1.10

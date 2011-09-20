@@ -1,4 +1,4 @@
-;============================================================
+﻿;============================================================
 ;  File: simplestatusmsg.dll
 ;  Module: Provides a simple way to set status and away messages
 ;  Versions: 1.9.0.3

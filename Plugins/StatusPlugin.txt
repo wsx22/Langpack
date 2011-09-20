@@ -1,4 +1,4 @@
-;============================================================
+﻿;============================================================
 ;  File:  AdvancedAutoAway.dll, KeepStatus.dll, StartupStatus.dll
 ;  Module: Advanced Auto Away, KeepStatus, StartupStatus
 ;============================================================

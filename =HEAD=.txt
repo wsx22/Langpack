@@ -1,4 +1,4 @@
-Miranda Language Pack Version 1
+﻿Miranda Language Pack Version 1
 Language: Polish
 Codepage: 65001
 Version: 2011.08.17
