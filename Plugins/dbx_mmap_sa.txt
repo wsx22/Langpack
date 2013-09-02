@@ -1,4 +1,4 @@
-;============================================================
+﻿;============================================================
 ;  File: dbx_mmap.dll, dbx_mmap_sa.dll
 ;  Module: Miranda mmap database driver, Miranda SecuredMMAP database driver
 ;  Versions: 0.9.26.0, 0.7.5.4

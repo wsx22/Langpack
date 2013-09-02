@@ -1,4 +1,4 @@
-;============================================================
+﻿;============================================================
 ;  File: IgnoreState.dll
 ;  Module: Show ignore state of contact in contacts list
 ;  Versions: 0.0.3.0
